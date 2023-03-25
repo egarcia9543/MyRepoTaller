@@ -1,0 +1,3 @@
+function despedida () {
+    alert("Adiós");
+}

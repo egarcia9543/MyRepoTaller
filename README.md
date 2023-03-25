@@ -23,3 +23,6 @@ Como en el proyecto solo estaba creado el readme con las instrucciones, se creo 
 
 ## DesarrolladorDos
 Se creo el archivo css porque tampoco estaba creado, además, en el index realizado por el DesarrolladorUno se enlazó este archivo para que se vieran los estilos en la página
+
+## DesarrolladorTres
+Se crea el archivo JavaScript con la función solicitada, además, se enlaza con el index.html y se añade el evento onclick al botón para que funcione, nada de lo anterior había sido realizado
