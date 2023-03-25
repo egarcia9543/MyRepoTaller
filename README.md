@@ -15,3 +15,8 @@ Finalmente debe enlazar este archivo en el index.html
 Debe crear el archivo main.js con las funciones que tendrá la página
 Debe codificar la función despedida
 Finalmente debe enlazar este archivo en el index.html
+
+
+## Informe de cambios
+## DesarrolladorUno
+Como en el proyecto solo estaba creado el readme con las instrucciones, se creo el archivo html index, posteriormente se le añadió el contenido que se pidió
