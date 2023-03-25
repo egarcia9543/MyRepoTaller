@@ -26,3 +26,6 @@ Se creo el archivo css porque tampoco estaba creado, además, en el index realiz
 
 ## DesarrolladorTres
 Se crea el archivo JavaScript con la función solicitada, además, se enlaza con el index.html y se añade el evento onclick al botón para que funcione, nada de lo anterior había sido realizado
+
+## main
+Finalmente, como dueño del proyecto se hizo el merge con los trabajos realizados por cada desarrollador y el proyecto se encuentra terminado
