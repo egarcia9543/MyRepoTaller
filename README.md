@@ -20,3 +20,6 @@ Finalmente debe enlazar este archivo en el index.html
 ## Informe de cambios
 ## DesarrolladorUno
 Como en el proyecto solo estaba creado el readme con las instrucciones, se creo el archivo html index, posteriormente se le añadió el contenido que se pidió
+
+## DesarrolladorDos
+Se creo el archivo css porque tampoco estaba creado, además, en el index realizado por el DesarrolladorUno se enlazó este archivo para que se vieran los estilos en la página
